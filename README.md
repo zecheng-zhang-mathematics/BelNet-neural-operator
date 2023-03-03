@@ -1,4 +1,4 @@
-# BelNet-neural-operator
+# BelNet: neural operator
 BelNet: a mesh free neural operator
 This file (belnet-basis-enhanced-neural-operator-tutorial.ipynb) is a demo code for BelNet (https://arxiv.org/abs/2212.07336). 
 Specifically, the code is for the first example.
